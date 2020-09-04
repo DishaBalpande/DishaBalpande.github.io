@@ -15,7 +15,7 @@ May 2020 : Deep Learning Nanodegree; udacity[^1]
 
 July 2020 : Computer Vision Nanodegree; Udacity[^2]
 
-may 2020 : SQL for Data Analytics; Udemy[^3]
+May 2020 : SQL for Data Analytics; Udemy[^3]
 
 
 
