@@ -11,9 +11,14 @@
 
 # Certifications
 
-May 2020 : Deep Learning Nanodegree; udacity 
+May 2020 : Deep Learning Nanodegree; udacity[^1]
 
 July 2020 : Computer Vision Nanodegree; Udacity
 
 may 2020 : SQL for Data Analytics; Udemy
 
+
+
+
+
+[^1]:[Deep Learning.pdf](https://github.com/DishaBalpande/DishaBalpande.github.io/files/5176542/Deep.Learning.pdf)
