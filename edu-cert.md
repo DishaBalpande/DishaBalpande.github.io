@@ -7,3 +7,13 @@
 2015-2018 : BE, Information Technology; Prof. Ram Meghe Institute of Technology and Research, Badnera-Amravati
 
 2012-2015 : Diploma in Information Technology; Baburao Tidke College,Nagpur(Maharashtra State Board)
+
+
+# Certifications
+
+May 2020 : Deep Learning Nanodegree; udacity 
+
+July 2020 : Computer Vision Nanodegree; Udacity
+
+may 2020 : SQL for Data Analytics; Udemy
+
