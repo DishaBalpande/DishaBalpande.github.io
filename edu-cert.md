@@ -3,3 +3,7 @@
 2018-2020 : M.Tech, Mathematical Modeling and Simulation; Savitribai Phule Pune University (Pune,Maharashtra)
 
  * Major Subjects: Machine Learning, Probability, Statistical Inference,Operational Research 
+
+2015-2018 : BE, Information Technology; Prof. Ram Meghe Institute of Technology and Research, Badnera-Amravati
+
+2012-2015 : Diploma in Information Technology; Baburao Tidke College,Nagpur(Maharashtra State Board)
