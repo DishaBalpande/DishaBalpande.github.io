@@ -23,6 +23,8 @@ May 2020 : SQL for Data Analytics; Udemy
 
 [Deep Learning.pdf](https://github.com/DishaBalpande/DishaBalpande.github.io/files/5176542/Deep.Learning.pdf)
 
+[download.pdf](https://github.com/DishaBalpande/DishaBalpande.github.io/files/5176587/download.pdf)
 
+[UC-89684a08-080f-4297-9617-6d31b4c6f5dd.pdf](https://github.com/DishaBalpande/DishaBalpande.github.io/files/5176594/UC-89684a08-080f-4297-9617-6d31b4c6f5dd.pdf)
 
 
