@@ -1,0 +1,52 @@
+title: Disha Balpande # your name (or website title) here
+logo: "" # your photo (or logo) here
+description:  # your text below (remove <br> elements if you don't need line breaks)
+  Data Science Practitioner | Statistical Learning | Natural Language Processing   
+  <br><br>
+  
+  
+  
+  <p>
+  <a href="https://www.linkedin.com/in/abhishekmamdapure/">
+  <img border="0" alt="LinkedIn" src="/images/linkedin_logo.png" width="35" height="35">
+  </a>
+  
+  <a href="https://github.com/abhishekmamdapure">
+  <img border="0" alt="Github" src="/images/github_logo.png" width="35" height="35">
+  </a>
+  
+  <a href="https://medium.com/@DishaBalpande">
+  <img border="0" alt="Medium" src="/images/medium_logo.png" width="35" height="35">
+  </a> 
+  
+  <a href="mailto:mamdapureabhishek@gmail.com">
+  <img border="0" alt="Gmail" src="/images/gmail_logo.png" width="35" height="35">
+  </a>
+  
+  <a href="https://twitter.com/afor_abhishek">
+  <img border="0" alt="Twitter" src="/images/twitter_logo.png" width="35" height="35">
+  </a>
+  </p>
+  
+    
+  <p>
+  <a href="abhishek_updated.pdf" download="Abhishek_Mamdapure.pdf">
+    <button>Download CV</button>
+  </a>
+  <a href="/contact.html" >
+    <button>Contact Me</button>
+    </a>
+  </p>
+
+
+
+
+
+  
+  
+  
+  
+   
+  
+  
+theme: jekyll-theme-minimal
