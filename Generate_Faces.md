@@ -8,3 +8,4 @@ I’m using the CelebFaces Attributes Dataset (CelebA) to train the adversarial 
 
 
 Sample results after only 40 epochs are presented below:
+![faces1](https://user-images.githubusercontent.com/55234691/92438397-5d56a700-f1c6-11ea-99b1-e71f0aae25f3.png)
