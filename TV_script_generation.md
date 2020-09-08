@@ -5,3 +5,13 @@ The Neural Network will generate a new ,"fake" TV script, based on patterns it r
 
 ## Project Steps
 
+1. Explore the Data and Implement Pre-processing Functions
+2. Build the Neural Network 
+   - Build the Neural Network 
+3. Neural Network Training 
+   - Train Loop
+   - Hyperparameters
+   - Train
+4. Generate TV Script 
+   - Generate a new script
+
