@@ -8,3 +8,6 @@
 [dog_breeed_prediction_project](https://github.com/DishaBalpande/DishaBalpande.github.io/blob/master/dog_breeed_prediction_project.md)
 
 [TV_script_generation](https://github.com/DishaBalpande/DishaBalpande.github.io/blob/master/TV_script_generation.md)
+
+
+[Generate_Faces_using_GAN](https://github.com/DishaBalpande/DishaBalpande.github.io/blob/master/Generate_Faces.md)
