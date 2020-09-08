@@ -13,3 +13,4 @@ Classifying 133 dog breeds using CNN and Transfer Learning
 
 In this project,learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. Given an image of a dog, your algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
+![sample_dog](https://user-images.githubusercontent.com/55234691/92436465-62195c00-f1c2-11ea-82f0-49979c2d8ed4.png)
